@@ -30,7 +30,7 @@ export default function Education() {
     {
       name: "Fr. Conceicao Rodrigues College of Engineering",
       period: "2024 - Present",
-      degree: "Bachelor of Engineering",
+      degree: "Bachelor of Technology",
       field: "Computer Engineering",
       description:
         "Currently pursuing undergraduate studies with focus on software development, AI, and system architecture.",
