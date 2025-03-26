@@ -49,13 +49,13 @@ export default function Gallery() {
     {
       title: "Photography Collection",
       category: "Photography",
-      image: "/photo.png",
+      image: "/photo1.png",
       description: "Captured the rhythmic dance of ocean waves, blending light and motion to reflect nature's raw beauty and endless depth.",
     },
     {
       title: "Guitar Mastery",
       category: "Music",
-      image: "/image.png",
+      image: "/image1.png",
       description: "Expressing creativity through soulful guitar melodies, blending rhythm and technique to create captivating tunes.",
     },
  
