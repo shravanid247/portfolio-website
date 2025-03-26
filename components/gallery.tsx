@@ -58,12 +58,7 @@ export default function Gallery() {
       image: "/image.png",
       description: "Expressing creativity through soulful guitar melodies, blending rhythm and technique to create captivating tunes.",
     },
- {
-      title: "Dance Passion",
-      category: "Performing Arts",
-      image: "/dancee.png",
-      description: "Expressing emotions through graceful moves and rhythmic beats, blending technique and energy to create mesmerizing performances."
-    },
+ 
     {
       title: "Anchoring",
       category: "Public Speaking",
